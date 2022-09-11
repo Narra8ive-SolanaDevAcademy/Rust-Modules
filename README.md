@@ -2,91 +2,91 @@
 The rust modules going to be covered in the cohart 
 
 # Module1
-   ### Installation and Setup 
-   ### RustUp and Cargo 
-       1- File System 
-       2- Cargo cli 
-       3- Library and Binary 
+   ### 1-Installation and Setup 
+   ### 2-RustUp and Cargo 
+       -File System 
+       -Cargo cli 
+       -Library and Binary 
 
-   ### Fundamentals 
-      1-Data Types
-      2-Variables
-      3-Function  
-      4-macro's 
-      5-comments
-      6-Control Flow
-      7-Arithmetic
-      8-Pointer Types
+   ### 3-Fundamentals 
+      -Data Types
+      -Variables
+      -Function  
+      -macro's 
+      -comments
+      -Control Flow
+      -Arithmetic
+      -Pointer Types
         ->References 
         ->Boxes
         ->Raw Pointers
-      9-String Types
+      -String Types
         ->String Literals
         ->String
         ->String's and Memory
-     10-Operators
+     -Operators
 
-## Module-2
-   # Making Decision
-   # Expressions
-   # Ownership
-   # Working With Data
-        1-Enums
-        2-Structs
-        3-Tuples
-        4-Implementing Functionality
-  # Data Structures
-        1-Arrays
-        2-Vectors
-        3-HashMap 
-  # Repetition
-        1-Loops 
-        2-iterators
-        3-Ranges
-  # Crates and Modules
-        1-Scopes and Privacy
-        2-Separating packages
-        3-use keyword
-  # Type Annotations
-  # User Input 
-        1-Readers
-        2-Buffered Readers
-        3-Reading Lines
-        4-Writers
-        5-Reading files
+# Module-2
+   ### 1-Making Decision
+   ### 2-Expressions
+   ### 3-Ownership
+   ### 4-Working With Data
+        -Enums
+        -Structs
+        -Tuples
+        -Implementing Functionality
+  ### 5-Data Structures
+        -Arrays
+        -Vectors
+        -HashMap 
+  ### 6-Repetition
+        -Loops 
+        -iterators
+        -Ranges
+  ### 7-Crates and Modules
+        -Scopes and Privacy
+        -Separating packages
+        -use keyword
+  ### 8-Type Annotations
+  ### 9-User Input 
+        -Readers
+        -Buffered Readers
+        -Reading Lines
+        -Writers
+        -Reading files
 
 
-## Module-3  
-  # Enums Revisited 
-        1-Advance Match 
-        2-Result
-        3-Option 
-  # Error Handling
-  # Type Casting 
-        1-From and Into
-        2-TryFrom and TryInto
-  # Closures 
-        1-Capturing and Move Closures
-        2-Combinators
-  # Map Combinators
-        1-Map with Closures
-        2-Chaining of map 
-        3-Option Combinators
-  # Proc macro
-  # Generic Type
-        1-Generic Structs
-        2-Generic Enums 
-        3-Generic Function's 
-  # Traits 
-        1-Generic Traits 
-        2-Trait bounds
-  # Lifetimes 
-        1-Explicit Annotations
-        2-Lifetimes with types, functions and traits
-  # Smart Pointers
-        1- Box
-        2- RC 
-        3- RefCell
+# Module-3  
+  ### 1-Enums Revisited 
+        -Advance Match 
+        -Result
+        -Option 
+  ### 2-Error Handling
+  ### 3-Type Casting 
+        -From and Into
+        -TryFrom and TryInto
+  ### 4-Closures 
+        -Capturing and Move Closures
+        -Combinators
+  ### 5-Map Combinators
+        -Map with Closures
+        -Chaining of map 
+        -Option Combinators
+  ### 6-Proc macro
+  ### 7-Generic Type
+        -Generic Structs
+        -Generic Enums 
+        -Generic Function's 
+  ### 8-Traits 
+        -Generic Traits 
+        -Trait bounds
+  ### 9-Lifetimes 
+        -Explicit Annotations
+        -Lifetimes with types, functions and traits
+  ### 10-Smart Pointers
+        -Box
+        -RC 
+        -RefCell
 
 
     
