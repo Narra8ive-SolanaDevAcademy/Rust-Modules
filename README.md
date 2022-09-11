@@ -1,14 +1,14 @@
 # Rust-Modules
 The rust modules going to be covered in the cohart 
 
-## Module1
-   # Installation and Setup 
-   # RustUp and Cargo 
+# Module1
+   ### Installation and Setup 
+   ### RustUp and Cargo 
        1- File System 
        2- Cargo cli 
        3- Library and Binary 
 
-   # Fundamentals 
+   ### Fundamentals 
       1-Data Types
       2-Variables
       3-Function  
